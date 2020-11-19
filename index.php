@@ -46,7 +46,7 @@
             </div>
         </div>
     </div>
-
+<h4 class="text-center mt-5">La folie du shopping, addict ?</h4>
 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur sunt vel recusandae sit magnam iusto exercitationem aliquam nobis ea quibusdam facilis, dignissimos non quia quam consequuntur quae perspiciatis ipsum neque minima saepe tempore voluptate. Debitis dolorem ex expedita, illo tempore delectus suscipit quia culpa dolor voluptatem, excepturi iusto. Reiciendis iure pariatur quisquam cumque quod, minima illum quis, culpa eius rerum voluptatem aliquam debitis modi. Nam recusandae unde facere! Incidunt aliquam earum molestias blanditiis nihil in temporibus sapiente harum voluptatum aliquid perspiciatis at, odio similique accusantium fugiat odit, eaque, ab iste nulla officiis. Dolorem temporibus modi rem sed esse libero veritatis?</p>
 
 
